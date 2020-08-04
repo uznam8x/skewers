@@ -1,0 +1,20 @@
+{
+  "name": "skewers",
+  "version": "0.0.0",
+  "description": "flow base functional programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uznam8x/skewers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uznam8x/skewers/issues"
+  },
+  "homepage": "https://github.com/uznam8x/skewers#readme"
+}
